@@ -6,9 +6,7 @@ A fully playable browser crossword game with a retro pixel-art aesthetic, built 
 
 ## 🕹️ Live Demo
 
-> **➡️ [Play it here: https://shreedivya19.github.io/crossword-quest/](https://shreedivya19.github.io/crossword-quest/)
-
-*(Replace `YOUR-USERNAME` with your GitHub username after deploying — see steps below)*
+> **➡️ [Play it here: https://shreedivya19.github.io/crossword-quest/](https://shreedivya19.github.io/crossword-quest/)**
 
 ---
 
@@ -26,46 +24,6 @@ A fully playable browser crossword game with a retro pixel-art aesthetic, built 
         [ S ]
         [ S ][ C ][ O ][ R ][ E ]
 ```
-
----
-
-## 🚀 Deploy to GitHub Pages in 3 Steps
-
-### Step 1 — Create a new GitHub repository
-1. Go to [github.com/new](https://github.com/new)
-2. Name it `crossword-quest` (or anything you like)
-3. Set it to **Public**
-4. Click **Create repository**
-
-### Step 2 — Upload the files
-**Option A — Drag & Drop (easiest)**
-1. Open your new repo on GitHub
-2. Click **"uploading an existing file"**
-3. Drag both `index.html` and `README.md` into the upload area
-4. Click **Commit changes**
-
-**Option B — Git CLI**
-```bash
-git clone https://github.com/YOUR-USERNAME/crossword-quest.git
-cd crossword-quest
-# copy index.html and README.md into this folder
-git add .
-git commit -m "🎮 Add Crossword Quest game"
-git push origin main
-```
-
-### Step 3 — Enable GitHub Pages
-1. In your repo, go to **Settings → Pages**
-2. Under **Source**, select `Deploy from a branch`
-3. Choose branch: **main** / folder: **/ (root)**
-4. Click **Save**
-
-⏱️ Wait ~60 seconds, then your site will be live at:
-```
-https://YOUR-USERNAME.github.io/crossword-quest/
-```
-
-Update the Live Demo link at the top of this README with your real URL!
 
 ---
 
@@ -101,6 +59,21 @@ Update the Live Demo link at the top of this README with your real URL!
 
 ---
 
+## ✨ Features
+
+- ✅ Retro green pixel art theme
+- ✅ Animated title glow effect
+- ✅ Checkerboard background
+- ✅ Word highlighting when cell selected
+- ✅ Real-time progress bar
+- ✅ Green ✓ / Red ✗ letter feedback
+- ✅ Win screen with animation
+- ✅ Keyboard navigation (arrows, Tab, Backspace, Enter)
+- ✅ Mobile responsive
+- ✅ No backend, no build tools — pure static files
+
+---
+
 ## 🛠️ Built With
 
 - **HTML5** — structure & inputs
@@ -120,19 +93,4 @@ crossword-quest/
 
 ---
 
-## ✨ Features
-
-- ✅ Retro green pixel art theme (inspired by classic arcade games)
-- ✅ Animated title glow effect
-- ✅ Checkerboard background
-- ✅ Word highlighting when cell selected
-- ✅ Real-time progress bar
-- ✅ Green ✓ / Red ✗ letter feedback
-- ✅ Win screen with animation
-- ✅ Keyboard navigation (arrows, Tab, Backspace, Enter)
-- ✅ Mobile responsive
-- ✅ No backend, no build tools — pure static files
-
----
-
-Made with ❤️ — perfect for GitHub Pages!
+Made with ❤️ by shreedivya19
