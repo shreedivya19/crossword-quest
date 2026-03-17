@@ -6,7 +6,7 @@ A fully playable browser crossword game with a retro pixel-art aesthetic, built 
 
 ## 🕹️ Live Demo
 
-> **➡️ [Play it here: https://YOUR-USERNAME.github.io/crossword-quest/](https://YOUR-USERNAME.github.io/crossword-quest/)**
+> **➡️ [Play it here: https://shreedivya19.github.io/crossword-quest/](https://shreedivya19.github.io/crossword-quest/)
 
 *(Replace `YOUR-USERNAME` with your GitHub username after deploying — see steps below)*
 
